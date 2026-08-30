@@ -1,5 +1,16 @@
 {
-  "token": "YOUR_BOT_TOKEN",
-  "roleID": "YOUR_ROLE_ID",
-  "channelID": "YOUR_CHANNEL_ID"
+  "token": "YOUR_TOKEN",
+  "channelID": "YOUR_CHANNEL_ID",
+  "roles": {
+    "Sword": "SWORD_ROLE_ID",
+    "Axe": "AXE_ROLE_ID",
+    "Mace": "MACE_ROLE_ID",
+    "DiaSMP": "DIASMP_ROLE_ID",
+    "DiaPOT": "DIAPOT_ROLE_ID",
+    "Crystal": "CRYSTAL_ROLE_ID",
+    "SMP": "SMP_ROLE_ID",
+    "SpearMace": "SPEARMACE_ROLE_ID",
+    "Cart": "CART_ROLE_ID",
+    "UHC": "UHC_ROLE_ID"
+  }
 }
